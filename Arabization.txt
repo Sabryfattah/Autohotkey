@@ -1,0 +1,4 @@
+Arabization
+========================
+Autohotkey script to use the Latin QWERTY keyboard to type arabic script by 
+assigning Unicode character code to a keyboard key. 
