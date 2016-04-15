@@ -7,3 +7,5 @@ Brian, Text-to-Speech using IVONA Brian_needs SayDynamic.exe
 Radio, Listen to InternetRadio - needs sc.exe
 
 B&W2, Text editor with black background and white text variable font
+
+Fetch3, Search for file by name or Regex and Notepad open it.
